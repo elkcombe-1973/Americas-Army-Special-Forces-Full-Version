@@ -242,4 +242,4 @@ This repository serves as the official landing page for America's Army Special F
 **Get the most recent version of America's Army Special Forces today!**
 
 ---
-**Last updated:** 2026-11-05 11:57:16 UTC
+**Last updated:** 2026-11-05 19:49:34 UTC
